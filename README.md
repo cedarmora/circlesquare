@@ -2,6 +2,9 @@
 My solution to the HackerRank "A Circle and a Square" competition:
 https://www.hackerrank.com/contests/w29/challenges/a-circle-and-a-square
 
+### Code location
+You can find the main code in the folder "A Circle and a Square", under A Circle and a Square.cpp.
+
 ## Problem description
 From the site:
 > In this challenge, you must implement part of a raster graphics editor that takes the coordinates of a circle and a square as input and draws them as filled-in shapes on a rectangular canvas.
