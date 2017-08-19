@@ -3,7 +3,7 @@ My solution to the HackerRank "A Circle and a Square" competition:
 https://www.hackerrank.com/contests/w29/challenges/a-circle-and-a-square
 
 ### Code location
-You can find the main code in the folder "A Circle and a Square", under A Circle and a Square.cpp.
+You can find the main code in the folder "A Circle and a Square", under "A Circle and a Square.cpp".
 
 ## Problem description
 From the site:
