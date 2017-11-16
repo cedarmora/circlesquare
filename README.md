@@ -11,7 +11,7 @@ From the site:
 
 ## My implementation
 
-### Data respresentation
+### Data representation
 
 The representation of the canvas was relatively straightforward, just a two dimensional vector of booleans to describe whether
 a "pixel" is shaded or not.
